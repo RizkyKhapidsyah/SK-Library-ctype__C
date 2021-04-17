@@ -1,7 +1,7 @@
 # SK-Library-ctype__C
 Programming by CppBuzz, Modified by Rizky Khapidsyah<br>
 Bahan Ajar Fundamental Pemrograman C - Studi Kasus; Pemahaman dan Penerapan Fungsi-Fungsi Yang Terdapat Pada Library <code>ctype.h</code> atau <code>cctype</code> : <br>
-- <b><code><a href="https://github.com/RizkyKhapidsyah/SK-ctype-isalnum__CPP/blob/master/SK-ctype-isalnum__CPP/Source.cpp" target="_blank">isalnum()</a></code></b><br><br>
+- <b><code><a href="https://github.com/RizkyKhapidsyah/SK-ctype-isalnum__CPP/blob/master/SK-ctype-isalnum__CPP/Source.cpp" target="__blank">isalnum()</a></code></b><br><br>
 <img src="https://github.com/RizkyKhapidsyah/SK-ctype-isalnum__CPP/blob/master/SK-ctype-isalnum__CPP/Result/001.PNG"><br><br>
 - <b><code>isalpha()</code></b><br><br>
 <img src="https://github.com/RizkyKhapidsyah/SK-Library-ctype__C/blob/master/SK-ctype-Bagian1__C/result/function_isalpha.PNG"><br><br>
